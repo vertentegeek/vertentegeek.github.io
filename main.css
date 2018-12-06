@@ -1,0 +1,89 @@
+body {
+    background: #fdea7e;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+#mainNavbar {
+    background: #1f2722;
+}
+
+#headingContent p {
+    color: #fa4056;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+#institution {
+    background: #fa4056;
+    font-weight: 700;    
+}
+
+#institution p {
+    color: white;
+    font-size: 3rem;
+}
+
+#institutionLink:hover{
+    text-decoration: none;
+}
+
+#institutionLink:hover #institution {
+    background: white;
+}
+
+#institutionLink:hover #institution p {
+    color: #fa4056;
+}
+
+#calendar {
+    line-height: 0;
+}
+
+#calendar h2, h3 {
+    font-weight: 700;
+}
+
+#calendar h2 {
+    font-size: 5rem;
+    margin-bottom: 0;
+    padding-top: 8%;
+    color: #88232f;
+}
+
+#calendar p {
+    font-weight: 300;
+    font-size: 1.35rem;
+}
+
+#calendar .row {
+    background: #fa4056;
+    color: #88232f;
+    height: 125px;
+}
+
+#calendar .darker {
+    color: #fa4056;
+    background: #88232f;
+}
+
+#calendar .white {
+    color: #fffae3;
+    font-size: 5rem;
+}
+
+#partners {
+    color: #fa4056;
+}
+
+#partners h2{
+    font-weight: 700;
+}
+
+#footer {
+    background: #1f2722;
+    color: #fffae3;
+}
