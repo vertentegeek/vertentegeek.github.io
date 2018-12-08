@@ -66,8 +66,11 @@ h1 {
 }
 
 #calendar .darker {
-    color: #fa4056;
     background: #88232f;
+}
+
+#calendar .darker h2 {
+    color: #fa4056;
 }
 
 #calendar .white {
