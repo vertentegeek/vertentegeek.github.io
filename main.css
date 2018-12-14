@@ -73,6 +73,14 @@ h1 {
     color: #fa4056;
 }
 
+#calendar .darker h3 {
+    color: #fa4056;
+}
+
+#calendar .darker p {
+    color: #fa4056;
+}
+
 #calendar .white {
     color: #fffae3;
     font-size: 5rem;
